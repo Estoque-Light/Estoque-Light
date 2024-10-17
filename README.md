@@ -1,6 +1,6 @@
 # Backlog - Estoque-Light
 
-## Estágio 1: Configuração do Projeto
+## Versão 0.0.1: Configuração do Projeto
 **Descrição**: Criar a estrutura básica do projeto.
 
 ### Tarefas:
@@ -12,7 +12,7 @@
 
 ---
 
-## Estágio 2: Criação da Interface de Usuário
+## Versão 0.0.2: Criação da Interface de Usuário
 **Descrição**: Desenvolver a interface básica do aplicativo.
 
 ### Tarefas:
@@ -24,7 +24,7 @@
 
 ---
 
-## Estágio 3: Implementação do Sistema de Login
+## Versão 0.0.3: Implementação do Sistema de Login
 **Descrição**: Adicionar autenticação de usuários ao aplicativo.
 
 ### Tarefas:
@@ -34,7 +34,7 @@
 
 ---
 
-## Estágio 4: Implementação do Banco de Dados
+## Versão 0.0.4: Implementação do Banco de Dados
 **Descrição**: Configurar o banco de dados para armazenar informações de estoque e usuários.
 
 ### Tarefas:
@@ -44,7 +44,7 @@
 
 ---
 
-## Estágio 5: Funcionalidades de Gerenciamento de Estoque e Notificações
+## Versão 0.1.0: Funcionalidades de Gerenciamento de Estoque e Notificações
 **Descrição**: Adicionar funcionalidades principais e implementar notificações.
 
 ### Tarefas:
